@@ -1,8 +1,3 @@
-/*
-* * USE INTERACE, CLASS, INHERITANCE TO BUILD A MANAGEMENT SYSTEM
-* # Clinic/Patient Booking Management
-*/
-
 import java.util.Scanner;
 
 interface Diagnosable{
